@@ -1,5 +1,7 @@
 # Exoplanet Explorer - Full Stack Application
 
+🌟 **[Live Demo](https://barakota15.github.io/Exoplanet-Explorer/)** 🌟
+
 A complete exoplanet classification system with a **Next.js frontend** and **Python FastAPI backend** using machine learning models.
 
 ## 🚀 How to Run the Project
