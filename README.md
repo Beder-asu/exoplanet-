@@ -43,7 +43,7 @@ python src/main.py
 ```
 
 ✅ **API will be running at:** `http://localhost:8000`  
-✅ **API Documentation:** `http://localhost:8000/docs`
+✅ **API Documentation:** `http://localhost:8000/docs` to test 
 
 ### Step 3: Start the Next.js Frontend
 
