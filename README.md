@@ -1,6 +1,6 @@
 # Exoplanet Explorer - Full Stack Application
- Live Demo: https://barakota15.github.io/Exoplanet-Explorer/ 
- Final UI preview: https://v0-exoplanetexplorer.vercel.app/dashboard
+ - Live Demo: https://barakota15.github.io/Exoplanet-Explorer/ 
+ - Final UI preview: https://v0-exoplanetexplorer.vercel.app/dashboard
  Run the project manually to all the experience
 
 A complete exoplanet classification system with a **Next.js frontend** and **Python FastAPI backend** using machine learning models.
