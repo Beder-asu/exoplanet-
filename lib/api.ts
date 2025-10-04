@@ -2,12 +2,12 @@
 
 // Use environment variable if available, otherwise fallback to localhost
 const getApiBaseUrl = () => {
-  if (typeof window === 'undefined') {
-    // Server-side: use localhost for SSR
-    return 'http://localhost:8000';
-  }
-  // Client-side: check for environment variable
-  return process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+    if (typeof window === 'undefined') {
+        // Server-side: use localhost for SSR
+        return 'http://localhost:8000';
+    }
+    // Client-side: check for environment variable
+    return process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
 };
 
 const API_BASE_URL = getApiBaseUrl();
