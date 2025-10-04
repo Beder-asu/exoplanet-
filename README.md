@@ -8,7 +8,7 @@ available in Demo Folder
  the repo main files
 ``` 
  - Run the project manually to all the experience
-## API is tested separately
+### Note: API is tested separately
 
 A complete exoplanet classification system with a **Next.js frontend** and **Python FastAPI backend** using machine learning models.
 
